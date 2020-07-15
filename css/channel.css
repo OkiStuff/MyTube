@@ -1,0 +1,8 @@
+#dropzone {
+    border: 2px dashed rgb(149, 146, 146);
+    width:  700px;
+    height: 300px;
+    text-align: center;
+    color:rgb(149, 146, 146);
+    line-height: 300px;
+}
